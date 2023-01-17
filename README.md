@@ -2,7 +2,7 @@
 
 
 ## Deployment:  
-[15 puzzle game](https://mooncitizenx.github.io/Crow-Echo/)
+[15 puzzle game](https://mooncitizenx.github.io/15-puzzle-game/)
 
 ## Game rules
 
